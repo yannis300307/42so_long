@@ -3,7 +3,7 @@
 ## Disclaimer
 This project is a enhanced version of the So Long project, part of the 42 curriculum. Most of the features in this So Long are extras that I made for fun. If you are planning to do this project, you **will not have** to add all the features I added.
 
-Other important point: this project is not a good example of 2D engine. It has been designed to be quick to implement and is not suitable for production or bigger games. Most of the optimisation features are not implemented.
+Other important point: this project is not a good example of 2D engine. It has been designed to be quick to implement and is not suitable for production or bigger games. Most of the optimisation features are not implemented and some parts of the code are ... not the best.
 
 ## Description
 

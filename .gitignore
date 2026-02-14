@@ -1,0 +1,4 @@
+*.o
+so_long
+libftprintf.a
+libft.a

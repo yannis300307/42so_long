@@ -1,5 +1,5 @@
 CC := cc
-CFLAGS := -Wall -Wextra -Werror -g
+CFLAGS := -Wall -Wextra -Werror -g -O3 -Wno-unused-result
 LDFLAGS = -lSDL2 -lm
 
 NAME := so_long
